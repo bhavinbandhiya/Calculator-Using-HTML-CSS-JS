@@ -2,4 +2,4 @@
 <hr>
 
 
-<img src="https://github.com/bhavinbandhiya/Calculator-Using-HTML-CSS-JS/blob/master/IMG/ss.jpgg" alt="">
+<img src="https://github.com/bhavinbandhiya/Calculator-Using-HTML-CSS-JS/blob/master/IMG/ss.jpg" alt="">
